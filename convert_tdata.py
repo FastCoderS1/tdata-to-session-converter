@@ -21,6 +21,7 @@ ascii_art = r"""
 ╚██████╗╚██████╔╝██║ ╚████║ ╚████╔╝ ███████╗██║  ██║   ██║   
  ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝   ╚═╝   
 
+    made by @FastCoderS1
    Converter: Tdata > .session ( telethon )                                                          
 
 """
